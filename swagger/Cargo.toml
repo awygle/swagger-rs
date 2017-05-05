@@ -1,0 +1,10 @@
+[package]
+name = "swagger"
+version = "0.1.0"
+authors = ["awygle <awygle@gmail.com>"]
+
+[dependencies]
+regex = "*"
+lazy_static = "*"
+mime = "*"
+url = "*"

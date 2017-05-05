@@ -1,0 +1,7 @@
+[package]
+name = "test-restricted-string"
+version = "0.1.0"
+authors = ["awygle <awygle@gmail.com>"]
+
+[dependencies]
+restricted-string-derive = { path = "restricted-string-derive" }

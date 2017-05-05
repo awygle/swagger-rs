@@ -1,0 +1,12 @@
+[package]
+name = "restricted-string-derive"
+version = "0.1.0"
+authors = ["awygle <awygle@gmail.com>"]
+
+[dependencies]
+regex = '*'
+syn = '*'
+quote = '*'
+
+[lib]
+proc-macro = true
